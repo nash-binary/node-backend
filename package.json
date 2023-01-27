@@ -1,0 +1,23 @@
+{
+  "name": "node-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nash-binary/node-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nash-binary/node-backend/issues"
+  },
+  "homepage": "https://github.com/nash-binary/node-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
